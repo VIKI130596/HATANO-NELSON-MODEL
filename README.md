@@ -25,4 +25,5 @@ Notes:
 8. Meissner effect: Fundamental phenomenon in superconductivity, a state of matter where certain materials can conduct electric current with zero electrical resistance and expel magnetic fields from their interior. When a material undergoes a transition to the superconducting state (usually at very low temperatures), it expels nearly all magnetic flux lines from its interior. This expulsion results in a state of zero magnetic field within the bulk of the superconductor. In other words, it becomes perfectly diamagnetic.
 9. Critical Magnetic Field: There is a critical magnetic field strength, known as the "critical field" or "upper critical field," above which the Meissner effect breaks down, and the superconductor returns to its normal (non-superconducting) state.
 10. Type I and Type II Superconductors: Superconductors are classified into two main types based on their response to magnetic fields:
+
     (a)Type I Superconductors: These materials exhibit a sharp and complete Meissner effect. They have a low critical magnetic field and typically expel all magnetic flux.
