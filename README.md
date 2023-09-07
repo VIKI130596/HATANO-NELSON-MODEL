@@ -33,4 +33,4 @@ Notes:
 12. Diverging Penetration Depth: The penetration depth in superconductivity refers to how deep an external magnetic field can penetrate into the material. In the context of this theory, it is suggested that this penetration depth diverges (becomes infinitely large) close to the depinning transition.
 
 
-Study involving a non-Hermitian quantum Hamiltonian with randomness. This research is motivated by a mapping between two seemingly different physical systems: the behavior of flux lines in a (d+1)-dimensional superconductor and the world lines of d-dimensional bosons.
+Study involving a non-Hermitian quantum Hamiltonian with randomness. This research is motivated by a mapping between two seemingly different physical systems: the behavior of flux lines in a (d+1)-dimensional superconductor and the world lines of d-dimensional bosons. 
