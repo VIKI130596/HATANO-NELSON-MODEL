@@ -42,3 +42,5 @@ Although the field component Hz parallel to the columns acts as a chemical poten
 Non-Hermitian Hamiltonian written as,
 
 $$H \equiv \frac{(p + ih)^2}{2m} + V(x)$$
+
+where $p = \frac{\hbar}{i}\bigtriangledown$
