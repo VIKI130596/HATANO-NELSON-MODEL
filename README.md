@@ -34,3 +34,4 @@ Notes:
 
 
 Study involving a non-Hermitian quantum Hamiltonian with randomness. This research is motivated by a mapping between two seemingly different physical systems: the behavior of flux lines in a (d+1)-dimensional superconductor and the world lines of d-dimensional bosons. 
+World Lines: In the context of quantum mechanics and quantum field theory, "world lines" are a visualization tool used to represent the trajectories or paths that particles follow through spacetime. Each point along a world line corresponds to the position of a particle at a particular moment in time.
