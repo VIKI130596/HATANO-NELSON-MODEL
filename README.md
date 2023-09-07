@@ -31,3 +31,6 @@ Notes:
     (b) Type II Superconductors: These materials exhibit a more complex behavior. They can partially expel magnetic flux but can also allow vortices (flux lines) to penetrate their interior when subjected to strong magnetic fields. Type II superconductors have a higher critical magnetic field.
 11. Transverse Meissner Effect: The Meissner effect is a fundamental property of superconductors where they expel magnetic fields from their interior. The transverse Meissner effect specifically refers to the response of a superconductor to a magnetic field applied perpendicular to the material, causing the expulsion of the magnetic field.
 12. Diverging Penetration Depth: The penetration depth in superconductivity refers to how deep an external magnetic field can penetrate into the material. In the context of this theory, it is suggested that this penetration depth diverges (becomes infinitely large) close to the depinning transition.
+
+
+Study involving a non-Hermitian quantum Hamiltonian with randomness. This research is motivated by a mapping between two seemingly different physical systems: the behavior of flux lines in a (d+1)-dimensional superconductor and the world lines of d-dimensional bosons.
