@@ -50,4 +50,4 @@ In this context, the "tilt modulus" refers to a measure of the resistance or ene
 
 Since the field $\textbf{h}$ act as a vector potential, we define the current operator as 
 
-$$J = -i\dfrac{H}{h} = \frca{(p + ih)}{m}$$
+$$J = -i\partial{H}/\partial{h} = (p + ih)/m$$
