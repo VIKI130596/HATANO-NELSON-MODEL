@@ -23,3 +23,13 @@ The thought experiment consists of the following elements:
     a. A region where the magnetic field (B) is zero.
     b. A solenoid, a long, thin coil of wire, carrying a magnetic field (B) inside it.
     c. A charged particle, typically an electron, is allowed to move around the solenoid in the zero magnetic field region.
+
+The Aharonov-Bohm effect is a quantum mechanical phenomenon where the phase of a quantum wavefunction changes when the particle enclosed by a closed path is subjected to a magnetic field, even if the particle itself does not experience the magnetic force directly.The study finds an analog of this effect in the non-Hermitian lattice system, where the change in the norm (magnitude) of the wavefunction (a measure of its probability) is related to the imaginary magnetic flux enclosed by a path. 
+
+Notes: 
+ 1. Landau Level: A Landau level is a term used in condensed matter physics to describe the quantized energy levels of charged particles, typically electrons, in a two-dimensional system subjected to a magnetic field. Landau levels are a fundamental concept in understanding the behavior of electrons in a magnetic field, especially in the context of the quantum Hall effect and topological insulators. In a uniform magnetic field perpendicular to a two-dimensional (2D) plane, the energy levels of electrons become quantized. This means that electrons can only occupy specific discrete energy levels, and they cannot have just any energy value. Landau levels originate from the quantization of the kinetic energy of electrons in a magnetic field. The magnetic field exerts a force on the moving electrons, causing them to follow curved trajectories, known as cyclotron orbits. As a consequence of these curved orbits, the kinetic energy of the electrons becomes quantized. This quantization leads to the formation of Landau levels, each corresponding to a different energy state. Landau levels are characterized by two quantum numbers: the principal quantum number (n) and the magnetic quantum number (m).
+
+        The principal quantum number (n) represents the Landau level index and determines the energy level. Higher values of n correspond to higher energy levels.
+        The magnetic quantum number (m) determines the orientation of the electron's orbit within a Landau level. It can take integer values ranging from -n to +n.
+
+    
