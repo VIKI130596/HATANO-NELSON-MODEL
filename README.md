@@ -59,10 +59,14 @@ $$\langle x \rangle_\tau = Z^{-1} \langle \psi^f | e^{-(L_\tau - \tau)H/\hbar} x
 
 where $\psi^i$ and $\psi^f$ describe boundary conditions at the bottom and top surfaces ($\tau=0, L_\tau$) of the superconductor, respectively. The partition function is,
 
-$$Z \equiv \langle psi^f | e^{-L_\tau H/\hbar} | \psi^i \rangle$$
+$$Z \equiv \langle \psi^f | e^{-L_\tau H/\hbar} | \psi^i \rangle$$
 
 The commutation realtion $[H, x] = -i\hbar J$ leads immediately to $(\partial/\partial\tau)\langle x \rangle_\tau = -i\langle J \rangle_\tau = Im\langle J \rangle_\tau$. The total displacement of the flux line between the bottom and the top surfaces is given by 
 
 $$ \langle x \rangle_{L_\tau} - \langle x \rangle = \hbar(\partial/\partial h)lnZ = Im\int_0^{L_\tau} \langle J \rangle_\tau d\tau$$
 
 This quantity is an indicator of the delocalization transition; the transverse displacement of a flux line must be order of the system size when it is depinned.
+
+Let us first consider localized states in a small perpendicular field. Assume the eigenfunctions $\psi_n(x)$ and the eigenvalues $\epsilon_n$ are known for h=0. For small h the right and left eigenvectors of H are given by $\psi_n^R(x;h) = e^{h.x/\hbar}\psi_n(x;h=0)$ and $\psi_n^L(x;h) = e^{-h.x/\hbar}\psi_n(x;h=0)$. The energy eigenvalue $\epsilon_n$ is unchanged under this imaginary gauge transformation. 
+
+However, the above wave functions $\psi_n^R$ and $\psi_n^L$ may diverge as $|x| \rightarrow \infty$ and hence may not be normalizable.
