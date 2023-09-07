@@ -26,4 +26,6 @@ Notes:
 9. Critical Magnetic Field: There is a critical magnetic field strength, known as the "critical field" or "upper critical field," above which the Meissner effect breaks down, and the superconductor returns to its normal (non-superconducting) state.
 10. Type I and Type II Superconductors: Superconductors are classified into two main types based on their response to magnetic fields:
 
-    (a)Type I Superconductors: These materials exhibit a sharp and complete Meissner effect. They have a low critical magnetic field and typically expel all magnetic flux.
+    (a) Type I Superconductors: These materials exhibit a sharp and complete Meissner effect. They have a low critical magnetic field and typically expel all magnetic flux.
+
+    (b) Type II Superconductors: These materials exhibit a more complex behavior. They can partially expel magnetic flux but can also allow vortices (flux lines) to penetrate their interior when subjected to strong magnetic fields. Type II superconductors have a higher critical magnetic field.
