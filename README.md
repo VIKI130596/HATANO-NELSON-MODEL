@@ -80,3 +80,5 @@ At the boundaries $x = \pm L/2$ the wavefunction has a mismatch of order $e^{-(k
 The periodic boundary condition is satisfied only by the extended function $e^{ik.x}$ with $k_\nu = 2n_\nu\pi/L_\nu$ where $n_\nu$ is an integer and $L_\nu$ is the system sizein the $x_\nu$ direction. The eigenvalue is complex.
 
 $\epsilon(k) = (\hbar k+ih)^2/2m$ 
+
+The imaginary part of an eigenvalue has the following meaning. The time evolution of an extended state is described as $e^\{ik.x - \tau\epsilon/\hbar}$. 
