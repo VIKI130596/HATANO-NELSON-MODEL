@@ -44,3 +44,10 @@ Non-Hermitian Hamiltonian written as,
 $$H \equiv \frac{(p + ih)^2}{2m} + V(x)$$
 
 where $p = -i\hbar\bigtriangledown$ and V(x) is a random potential. The non-Hermitian filed $\textbf{h}$ orginates in the transverse magnetic field as $\textbf{h} = \phi_0 Hp/4\pi$. The flux quantum $\phi_0 = 2\pi\hbar c/2e$ plays the role of a charge and the non-Hermitian factor $i=\sqrt{-1}$ arises from mapping onto imaginary time quantum mechanics. 
+
+The mass (m) of a particle in the system is equivalent to the "tilt modulus" of the flux line.
+In this context, the "tilt modulus" refers to a measure of the resistance or energy cost associated with tilting or deforming the flux line within the superconducting material. The Planck parameter (ħ) corresponds to the temperature (T) of the superconductor. In quantum mechanics, temperature is associated with thermal fluctuations, and the value of ħ may be used to represent these fluctuations in the system. The inverse temperature (1/T) of the quantum system corresponds to the thickness (Lt) of the sample along the Hz direction. In statistical mechanics and thermodynamics, the inverse temperature (1/T) is often used as a parameter to describe the thermal properties of a system. 
+
+Since the field $\textbf{h}$ act as a vector potential, we define the current operator as 
+
+$$J = -i\dfrac{H}{h} = \frca{(p + ih)}{m}$$
