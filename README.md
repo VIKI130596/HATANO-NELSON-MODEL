@@ -75,7 +75,7 @@ $$\psi_n^R(x) \propto e^{h.(x-x_n)/\hbar - k_n|x-x_n|}$$
 
 where $x_n$ is the localization center. The point $|h| = \hbar k_n$ is the delocalization point of the state $\psi^R_n$. In the region $|h|\geq\hbar k_n$ the eigenfunction become extended. Hence we need to specify the boundary conditions in order to obtain a well-defined wave function in the thermodynamic limit.
 
-At the boundaries $x = \pm L/2$ the wavefunction has a mismatch of order $e^{-(k_n - h/\hbar)L_x}$. In the region $h<\habr k_n$ this mismatch is exponentially small, as is the change necessary to meet the periodic boundary condition. In the region $h\geq\hbar k_n$, ever, the wave function changes drastically, and a complex eigenvalue appears. To understand this point, consider the case $|h|\rightarrow\infty$, a limit in which the random potential is neglected. 
+At the boundaries $x = \pm L/2$ the wavefunction has a mismatch of order $e^{-(k_n - h/\hbar)L_x}$. In the region $h<\hbar k_n$ this mismatch is exponentially small, as is the change necessary to meet the periodic boundary condition. In the region $h\geq\hbar k_n$, ever, the wave function changes drastically, and a complex eigenvalue appears. To understand this point, consider the case $|h|\rightarrow\infty$, a limit in which the random potential is neglected. 
 
 The periodic boundary condition is satisfied only by the extended function $e^{ik.x}$ with $k_\nu = 2n_\nu\pi/L_\nu$ where $n_\nu$ is an integer and $L_\nu$ is the system sizein the $x_\nu$ direction. The eigenvalue is complex.
 
