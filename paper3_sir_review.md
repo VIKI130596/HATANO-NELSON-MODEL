@@ -5,7 +5,7 @@
 ## Two dimensional lattice with an imaginary magnetic field 
 
 ### Abstract:
-
+ 
 We explore gauge-independent properties of two-dimensional non-Hermitian lattice systems with
 an imaginary magnetic field. We find that the energy spectrum under the open boundary conditions
 is an example of such gauge-independent properties. We discuss how to obtain the asymptotic
