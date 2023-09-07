@@ -69,7 +69,7 @@ This quantity is an indicator of the delocalization transition; the transverse d
 
 Let us first consider localized states in a small perpendicular field. Assume the eigenfunctions $\psi_n(x)$ and the eigenvalues $\epsilon_n$ are known for h=0. For small h the right and left eigenvectors of H are given by $\psi_n^R(x;h) = e^{h.x/\hbar}\psi_n(x;h=0)$ and $\psi_n^L(x;h) = e^{-h.x/\hbar}\psi_n(x;h=0)$. The energy eigenvalue $\epsilon_n$ is unchanged under this imaginary gauge transformation. 
 
-However, the above wave functions $\psi_n^R$ and $\psi_n^L$ may diverge as $|x| \rightarrow \infty$ and hence may not be normalizable. The normalizability condition is $|h| < \habr k_n$, where $k_n$ is the inverse localization length of the state $\psi_n(x;h=0)$. Then the wavefunction is approximately,
+However, the above wave functions $\psi_n^R$ and $\psi_n^L$ may diverge as $|x| \rightarrow \infty$ and hence may not be normalizable. The normalizability condition is $|h| < \hbar k_n$, where $k_n$ is the inverse localization length of the state $\psi_n(x;h=0)$. Then the wavefunction is approximately,
 
 $$\psi_n^R(x) \propto e^{h.(x-x_n)/\hbar - k_n|x-x_n|}$$
 
