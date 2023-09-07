@@ -55,10 +55,10 @@ $$J = -i\partial{H}/\partial{h} = (p + ih)/m$$
 The imaginary part of the current describes the tilt slope of the flux line. The position
 of the flux line x at the distance $\tau$ from the bottom surface of the superconductor is given by
 
-$$\langle x \rangle_\tau = Z^{-1} \langle \psi^f | e^{-(L_\tau - \tau)H/\habr} x e^{-\tau H/\hbar} | \psi^i \rangle$$
+$$\langle x \rangle_\tau = Z^{-1} \langle \psi^f | e^{-(L_\tau - \tau)H/\hbar} x e^{-\tau H/\hbar} | \psi^i \rangle$$
 
 where $\psi^i$ and $\psi^f$ describe boundary conditions at the bottom and top surfaces ($\tau=0, L_\tau$) of the superconductor, respectively. The partition function is,
 
 $$Z \equiv \langle psi^f | e^{-L_\tau H/\hbar} | \psi^i \rangle$$
 
-The commutation realtion $[H, x] = -i\hbar J$ leads immediately to $(\partial/\partial\tau)\langle x \rangle_\tau = -i\langle J \rangle-\tau = Im\langle J \rangle_\tau$.
+The commutation realtion $[H, x] = -i\hbar J$ leads immediately to $(\partial/\partial\tau)\langle x \rangle_\tau = -i\langle J \rangle_\tau = Im\langle J \rangle_\tau$.
