@@ -69,4 +69,14 @@ This quantity is an indicator of the delocalization transition; the transverse d
 
 Let us first consider localized states in a small perpendicular field. Assume the eigenfunctions $\psi_n(x)$ and the eigenvalues $\epsilon_n$ are known for h=0. For small h the right and left eigenvectors of H are given by $\psi_n^R(x;h) = e^{h.x/\hbar}\psi_n(x;h=0)$ and $\psi_n^L(x;h) = e^{-h.x/\hbar}\psi_n(x;h=0)$. The energy eigenvalue $\epsilon_n$ is unchanged under this imaginary gauge transformation. 
 
-However, the above wave functions $\psi_n^R$ and $\psi_n^L$ may diverge as $|x| \rightarrow \infty$ and hence may not be normalizable.
+However, the above wave functions $\psi_n^R$ and $\psi_n^L$ may diverge as $|x| \rightarrow \infty$ and hence may not be normalizable. The normalizability condition is $|h| < \habr k_n$, where $k_n$ is the inverse localization length of the state $\psi_n(x;h=0)$. Then the wavefunction is approximately,
+
+$$\psi_n^R(x) \propto e^{h.(x-x_n)/\hbar - k_n|x-x_n|}$$
+
+where $x_n$ is the localization center. The point $|h| = \hbar k_n$ is the delocalization point of the state $\psi^R_n$. In the region $|h|\geq\hbar k_n$ the eigenfunction become extended. Hence we need to specify the boundary conditions in order to obtain a well-defined wave function in the thermodynamic limit.
+
+At the boundaries $x = \pm L/2$ the wavefunction has a mismatch of order $e^{-(k_n - h/\hbar)L_x}$. In the region $h<\habr k_n$ this mismatch is exponentially small, as is the change necessary to meet the periodic boundary condition. In the region $h\geq\hbar k_n$, ever, the wave function changes drastically, and a complex eigenvalue appears. To understand this point, consider the case $|h|\rightarrow\infty$, a limit in which the random potential is neglected. 
+
+The periodic boundary condition is satisfied only by the extended function $e^{ik.x}$ with $k_\nu = 2n_\nu\pi/L_\nu$ where $n_\nu$ is an integer and $L_\nu$ is the system sizein the $x_\nu$ direction. The eigenvalue is complex.
+
+$\epsilon(k) = (\hbar k+ih)^2/2m$
