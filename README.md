@@ -43,4 +43,4 @@ Non-Hermitian Hamiltonian written as,
 
 $$H \equiv \frac{(p + ih)^2}{2m} + V(x)$$
 
-where $p = -i\hbar\bigtriangledown$ and V(x) is a random potential. The non-Hermitian filed $\textbf{h}$ orginates in the transverse magnetic field as $\textbf{h} = \phi_0 Hp/4\pi$. The flux quantum $phi_0 = 2\pi\hbar c/2e$ plays the role of a charge and the non-Hermitian factor $i=\sqrt{-1}$ arises from mapping onto imaginary time quantum mechanics.
+where $p = -i\hbar\bigtriangledown$ and V(x) is a random potential. The non-Hermitian filed $\textbf{h}$ orginates in the transverse magnetic field as $\textbf{h} = \phi_0 Hp/4\pi$. The flux quantum $\phi_0 = 2\pi\hbar c/2e$ plays the role of a charge and the non-Hermitian factor $i=\sqrt{-1}$ arises from mapping onto imaginary time quantum mechanics.
