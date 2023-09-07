@@ -39,3 +39,6 @@ World Lines: In the context of quantum mechanics and quantum field theory, "worl
 
 Although the field component Hz parallel to the columns acts as a chemical potential for the bosons, the component perpendicular to the columns results in a constant imaginary vector potential. We study localization in this simple example of nonHermitian quantum mechanics, and show how flux lines are depinned from columnar defects by an increasing perpendicular magnetic field Hp.  It is generally believed that all eigenstates are localized in conventional oneand two-dimensional noninteracting quantum systems with randomness. On the other hand, it is almost obvious that a flux line is depinned from defects by a strong perpendicular field component. This indicates that the present non-Hermitian system has extended states in a large Hp region, and that there must be a delocalization transition at a certain strength of Hp.
 
+Non-Hermitian Hamiltonian written as,
+
+$$H \equiv \frac{(p + ih)^2}{2m} + V(x)$$
