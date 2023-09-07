@@ -43,4 +43,4 @@ Non-Hermitian Hamiltonian written as,
 
 $$H \equiv \frac{(p + ih)^2}{2m} + V(x)$$
 
-where $p = -i\hbar\bigtriangledown$
+where $p = -i\hbar\bigtriangledown$ 
