@@ -61,4 +61,8 @@ where $\psi^i$ and $\psi^f$ describe boundary conditions at the bottom and top s
 
 $$Z \equiv \langle psi^f | e^{-L_\tau H/\hbar} | \psi^i \rangle$$
 
-The commutation realtion $[H, x] = -i\hbar J$ leads immediately to $(\partial/\partial\tau)\langle x \rangle_\tau = -i\langle J \rangle_\tau = Im\langle J \rangle_\tau$.
+The commutation realtion $[H, x] = -i\hbar J$ leads immediately to $(\partial/\partial\tau)\langle x \rangle_\tau = -i\langle J \rangle_\tau = Im\langle J \rangle_\tau$. The total displacement of the flux line between the bottom and the top surfaces is given by 
+
+$$ \langle x \rangle_{L_\tau} - \langle x \rangle = \hbar(\partial/\patial h)lnZ = Im\int_0^{L_\tau} \langle J \rangle_\tau d\tau$$
+
+This quantity is an indicator of the delocalization transition; the transverse displacement of a flux line must be order of the system size when it is depinned.
